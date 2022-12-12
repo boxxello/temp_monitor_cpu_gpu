@@ -16,7 +16,7 @@ The scope for this project is to make IETS 500 run at lower speeds when the GPU/
 
 
 ## Documentation about the dll
-You can either use the dll I am including in this project or you can download the dll from the following [link](https://openhardwaremonitor.org/downloads/):
+You can either use the dll I am including in this project or you can download the dll from the following [link](https://openhardwaremonitor.org/downloads/) 
 and extract the dll from the zip file and put it into the needed_dlls dir.
 
 This is the link for the GitHub repo of the project: [link](https://github.com/openhardwaremonitor/openhardwaremonitor).
